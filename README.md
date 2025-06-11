@@ -1,6 +1,6 @@
 # 🧠 ResNet18 From Scratch with Grad-CAM Visualization & Streamlit UI
 
-Welcome to my deep learning project where I implemented the **ResNet18 architecture from scratch** in PyTorch — complete with **Grad-CAM (Gradient-weighted Class Activation Mapping)** for model interpretability and a fully interactive **Streamlit web interface** for real-time predictions and heatmap visualizations.
+Welcome to my deep learning project where I implemented the **ResNet18 architecture from scratch** in PyTorch — complete with **Grad-CAM (Gradient-weighted Class Activation Mapping)** for model interpretability and a fully interactive **Streamlit web interface** for real-time predictions and heatmap visualizations. I used a small size (2300) car damage dataset for model training from my codebasics AI bootcamp which i was not allowed to publish as it was only for the members but you can you any photo of a damage car to checkout the model and also due to my compute resources i was not getting more accuracy than 57.3% so the model many times gives wrong answers 
 
 ---
 
