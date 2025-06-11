@@ -2,4 +2,4 @@ torch
 torchvision
 matplotlib
 numpy
-opencv
+opencv-python
